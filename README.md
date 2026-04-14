@@ -13,7 +13,7 @@ Covers the everyday building blocks of clean, readable Markdown:
 
 | Notebook | Open in Colab |
 |---|---|
-| `Markdown_text_and_formatting_without_answers.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GerardMotak/Markdown-skills/blob/main/Markdown_text_and_formatting_without_answers.ipynb) |
+| `Markdown_text_and_formatting_without_answers.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GerardMotak/Markdown-skills/blob/master/Markdown_text_and_formatting_without_answers.ipynb) |
 
 **Topics covered:** Headings · Text Formatting · Lists · Code Blocks · Tables · Blockquotes
 
@@ -24,7 +24,7 @@ Covers how to write mathematical notation in Markdown using LaTeX syntax:
 
 | Notebook | Open in Colab |
 |---|---|
-| `math_skills_without_answers.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GerardMotak/Markdown-skills/blob/main/math_skills_without_answers.ipynb) |
+| `math_skills_without_answers.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GerardMotak/Markdown-skills/blob/master/math_skills_without_answers.ipynb) |
 
 **Topics covered:** Inline Math · Block Equations · Fractions & Powers · Greek Letters · Sums, Products & Integrals · Matrices · Multi-line Equations · Common Symbols · Real-World Examples
 
